@@ -1,4 +1,4 @@
-﻿namespace WordCensor.IO;
+﻿namespace API.IO;
 
 /**
  * This class will export exportable items in a specific format.

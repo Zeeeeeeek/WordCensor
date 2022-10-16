@@ -1,4 +1,4 @@
-﻿namespace WordCensor.IO;
+﻿namespace API.IO;
 
 /**
  * Readers will read elements from a specific source

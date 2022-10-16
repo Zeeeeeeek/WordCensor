@@ -1,4 +1,4 @@
-﻿namespace WordCensor.IO;
+﻿namespace API.IO;
 
 /**
  * An exportable object is an element that can be represented as a string.
